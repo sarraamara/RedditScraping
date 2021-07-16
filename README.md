@@ -6,3 +6,4 @@ Scrape some top posts of a given subbreddit and its top comments of each display
 
 - V_1: For now, it only scrapes a few top posts.
 - V_2: Scrapes the top comment of each post but without username
+- V_3: Display the content in a GUI.
